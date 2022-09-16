@@ -7,6 +7,9 @@ All right, you have now gained access the repo. Before you start executing the c
 
 Start reading from main.py then continue to wherever the functions lead you(Mostly it will lead you to trainer.py :D). Once you understand the code flow it would be easier for you to make changes and build further onto it.
 
+## Research outcome
+Refer to the detailed report here: [Thesis](MTP_Avalanche.pdf)
+
 ## Installations
 
 ### Python Requirements
